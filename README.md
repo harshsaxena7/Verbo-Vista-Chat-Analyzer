@@ -66,7 +66,8 @@ emoji
 python-3.11
 ```
 
-## Contributions
-Feel free to open an issue or pull request for improvements!
-
-## JAYESH S CHAUHAN
+## Contributors
+HARSH SAXENA
+ARUJ BANSAL
+MUDIT AGARWAL
+KARTIKEY TANDON
