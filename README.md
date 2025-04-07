@@ -1,9 +1,7 @@
 # WhatsApp Chat Analysis
 
 ## 📌 Project Overview
-This project analyzes **individual and group chats** from WhatsApp. It processes exported `.txt` chat files, extracts structured data, and provides insights based on chat patterns. The application is deployed on Streamlit and can be accessed here:
-
-[whatsapp-chat-analysis-insights-tool.streamlit.app](http://whatsapp-chat-analysis-insights-tool.streamlit.app/)
+This project analyzes **individual and group chats** from WhatsApp. It processes exported `.txt` chat files, extracts structured data, and provides insights based on chat patterns.
 
 ## 🕸️ Features
 - Supports **individual and group chat** analysis.
@@ -14,7 +12,7 @@ This project analyzes **individual and group chats** from WhatsApp. It processes
 
 ## Project Structure
 ```
-📂 whatsapp_chat_analysis/
+
 │── app.py                      # Streamlit web application
 │── preprocess.py               # Preprocessing logic for chat files
 │── helper.py                   # Functions for analysis and insights
